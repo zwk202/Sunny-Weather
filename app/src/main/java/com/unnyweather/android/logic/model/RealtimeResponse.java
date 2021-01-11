@@ -27,3 +27,4 @@ public class RealtimeResponse {
         public AirQuality airQuality;
     }
 }
+
